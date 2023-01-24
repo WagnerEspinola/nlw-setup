@@ -36,9 +36,11 @@ O Habits é um app para ajudar a rastrear os hábitos.
 
 - [Visite o projeto online](https://wagnerespinola.github.io/nlw-setup)
 
+🚧🚧Projeto ainda não finalizado🚧🚧
+
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/0CELoYlTPoDnEw5bbmorGi/Habits-(e)-(Community)?node-id=6%3A910&t=JljLtRw9V4cIxHTt-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/0CELoYlTPoDnEw5bbmorGi/Habits-(e)-(Community)?node-id=6%3A910&t=JljLtRw9V4cIxHTt-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 

@@ -5,10 +5,10 @@
 }
 
 body {
-  background-color: #09090a;
+  background-color: #000000;
   color: white;
-
-  height: 100vh;
+  /*alterei de 150vh pra cima e não vi diferença*/
+  height: 150vh;
 }
 
 header {
@@ -20,15 +20,15 @@ header {
 
   position: fixed;
   width: 100%;
-  background-color: #09090a;
+  background-color: #000000;
 }
 
 button {
   padding: 16px 24px;
-  border-radius: 8px;
-  border: 1px solid #8b5cf6;
-  background-color: transparent;
-  color: white;
+  border-radius: 40px 10px;
+  border: 1px solid rgb(73, 157, 235);
+  background-color: rgb(73, 157, 235);
+  color: rgb(0, 0, 0);
 
   display: flex;
   align-items: center;
@@ -57,10 +57,10 @@ button {
 }
 
 .habit {
-  width: 64px;
-  height: 64px;
+  width: 44px;
+  height: 44px;
 
-  font-size: 32px;
+  font-size: 30px;
 
   display: flex;
   align-items: center;
@@ -86,7 +86,7 @@ button {
   font-size: 20px;
   line-height: 125%;
 
-  color: #a1a1aa;
+  color: rgb(73, 157, 235);
 
   text-align: center;
 }
@@ -94,18 +94,18 @@ input {
   -webkit-appearance: none;
   appearance: none;
 
-  width: 64px;
-  height: 64px;
+  width: 44px;
+  height: 44px;
 
-  border: 2px solid #a78bfa;
-  border-radius: 8px;
-  background: #18181b;
+  border: 2px solid rgb(73, 157, 235);
+  border-radius: 40px 10px;
+  background: #050505c5;
 }
 
 /*pseudo-selector*/
 input:checked {
-  background: #8b5cf6;
-  border: 2px solid #a78bfa;
+  background: rgb(73, 157, 235);
+  border: 2px solid #030303;
 }
 
 @media (max-width: 570px) {
